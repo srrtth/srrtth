@@ -1,16 +1,41 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**srrtth/srrtth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey you! 👋
+Welcome to my GitHub page! 🎉
 
-Here are some ideas to get you started:
+<b>I'm Sarath!</b>
+  
+<i>Passionate about developing, understanding, and interpreting data for informed decision-making while creating state-of-the-art software solutions for high-performance systems in a fast-paced environment.</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/srrtth/) 💼,
+[Patreon](https://www.patreon.com/helpmebuystuff) 🎁,
+[Email](mailto:legrand2252@gmail.com) 📧,
+[Instagram](https://www.instagram.com/srrtth/) 📸
+
+# Knowledge Base
+## Software Development,ML, IoT, Web Development
+
+# Languages
+[Python](https://www.python.org/) 🐍,
+[C](https://en.wikipedia.org/wiki/C_(programming_language)) 🅲,
+[C++](https://en.wikipedia.org/wiki/C%2B%2B) 🅲🅲
+
+## ML
+**NumPy** 🧮,
+**Pandas** 🐼,
+**Matplotlib**,
+**TensorFlow** 🧠,
+**OpenCV** 👀,
+**PIL (Python Imaging Library)** 
+
+## IDEs
+[Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) 🖥️,
+[Jupyter Notebook](https://jupyter.org/) 📓,
+[Visual Studio Code (VSC)](https://code.visualstudio.com/) 💻,
+[Google Colab](https://colab.research.google.com/) 📊
+ 
+### <i> Open to challenges in a high-pressure, fast-paced environment </i>
+
+![Profile Views](https://komarev.com/ghpvc/?username=srrtth)
