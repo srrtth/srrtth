@@ -20,7 +20,7 @@ Welcome to my GitHub page! 🎉
 | **NumPy** 🧮 | **Pandas** 🐼 | **Matplotlib** | **TensorFlow** 🧠 | **OpenCV** 👀 | **PIL (Python Imaging Library)** |
 
 ## IDEs
-| [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) 🖥️ | [Jupyter Notebook](https://jupyter.org/) 📓 | [Visual Studio Code (VSC)](https://code.visualstudio.com/) 💻 | [Google Colab](https://colab.research.google.com/) 📊 |
+| [PyCharm](https://jupyterlab.readthedocs.io/en/stable/) 🖥️ | [Jupyter Notebook](https://jupyter.org/) 📓 | [Visual Studio Code (VSC)](https://code.visualstudio.com/) 💻 | [Google Colab](https://colab.research.google.com/) 📊 |
 
 ### <i>Open to challenges in a high-pressure, fast-paced environment</i>
 
