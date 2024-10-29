@@ -1,9 +1,4 @@
 <div align="center">
-
-# Hey you! 👋
-Welcome to my GitHub page! 🎉
-
-<b>I'm Sarath!</b>
   
 <i>Passionate about developing, understanding, and interpreting data for informed decision-making while creating state-of-the-art software solutions for high-performance systems in a fast-paced environment.</i>
   
